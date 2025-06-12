@@ -7,13 +7,13 @@ export const data = [
 
 ];
 
-export const people = [
+// export const people = [
 
-    {id :1 , name : "kara", nickName: "dele"},
-    {id: 2 , name: "markela", nickName: "mark"},
+    // {id :1 , name : "kara", nickName: "dele"},
+    // {id: 2 , name: "markela", nickName: "mark"},
     
 
-]
+
 
 
 
