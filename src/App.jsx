@@ -1,10 +1,10 @@
-import React from "react";
-import UseStateArray from "./starter/useStateArray"; // σωστό path
+import UseStateArray from "./starter/useStateArray";
+import UseStateObject from "./starter/useStateObject";
 
 function App() {
   return (
     <main>
-      <UseStateArray />
+      <UseStateObject />
     </main>
   );
 }
